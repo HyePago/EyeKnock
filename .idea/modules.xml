@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EyeKnock_UI.iml" filepath="$PROJECT_DIR$/EyeKnock_UI.iml" />
+      <module fileurl="file://D:\Programming\android_studio\EyeKnock_final\EyeKnock_UI.iml" filepath="D:\Programming\android_studio\EyeKnock_final\EyeKnock_UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EyeKnock_final.iml" filepath="$PROJECT_DIR$/EyeKnock_final.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Programming\android_studio\EyeKnock_final\app\app.iml" filepath="D:\Programming\android_studio\EyeKnock_final\app\app.iml" />
     </modules>
   </component>
 </project>
